@@ -1,0 +1,123 @@
+/************TAGS SELECTORS**********/
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+em {
+  color: white;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+/**********CLASS SELECTORS**********/
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+}
+
+/* Navbar brand involves the tindog name */
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bolder;
+}
+
+.tindog-name {
+  font-size: 5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.title-image {
+  padding: 10% 12%;
+  width: 10%;
+}
+
+/* Download buttons */
+.dowmload-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image  */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* Features Section */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 20px 50px;
+}
+
+/**********ID SELECTOS*************/
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+}
+
+.testimonial-image {
+  border-radius: 100px;
+  width: 10%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 4%;
+}
